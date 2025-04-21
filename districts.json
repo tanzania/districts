@@ -1,0 +1,331 @@
+{
+  "districts": [
+    {
+      "region": "Arusha",
+      "districts": [
+        "Arusha Urban",
+        "Arusha Rural",
+        "Karatu",
+        "Monduli",
+        "Ngorongoro",
+        "Longido",
+        "Meru"
+      ]
+    },
+    {
+      "region": "Dar es Salaam",
+      "districts": [
+        "Kinondoni",
+        "Ilala",
+        "Temeke",
+        "Ubungo",
+        "Kigamboni"
+      ]
+    },
+    {
+      "region": "Dodoma",
+      "districts": [
+        "Dodoma Urban",
+        "Dodoma Rural",
+        "Kondoa",
+        "Chemba",
+        "Bahi",
+        "Chamwino",
+        "Mpwapwa"
+      ]
+    },
+    {
+      "region": "Geita",
+      "districts": [
+        "Geita Town",
+        "Geita Rural",
+        "Bukombe",
+        "Chato",
+        "Nyag'hwilole"
+      ]
+    },
+    {
+      "region": "Iringa",
+      "districts": [
+        "Iringa Urban",
+        "Iringa Rural",
+        "Mufindi",
+        "Kilolo",
+        "Mafinga"
+      ]
+    },
+    {
+      "region": "Kagera",
+      "districts": [
+        "Bukoba Urban",
+        "Bukoba Rural",
+        "Muleba",
+        "Biharamulo",
+        "Ngara",
+        "Karagwe",
+        "Kyerwa",
+        "Missenyi"
+      ]
+    },
+    {
+      "region": "Kigoma",
+      "districts": [
+        "Kigoma Urban",
+        "Kigoma Rural",
+        "Kasulu Urban",
+        "Kasulu Rural",
+        "Kibondo",
+        "Kakonko",
+        "Uvinza",
+        "Mpanda"
+      ]
+    },
+    {
+      "region": "Kilimanjaro",
+      "districts": [
+        "Moshi Urban",
+        "Moshi Rural",
+        "Hai",
+        "Rombo",
+        "Mwanga",
+        "Siha",
+        "Same"
+      ]
+    },
+    {
+      "region": "Lindi",
+      "districts": [
+        "Lindi Urban",
+        "Lindi Rural",
+        "Kilwa",
+        "Liwale",
+        "Nachingwea",
+        "Ruangwa"
+      ]
+    },
+    {
+      "region": "Manyara",
+      "districts": [
+        "Babati Urban",
+        "Babati Rural",
+        "Kiteto",
+        "Mbulu Urban",
+        "Mbulu Rural",
+        "Hanang",
+        "Simanjiro"
+      ]
+    },
+    {
+      "region": "Mara",
+      "districts": [
+        "Musoma Urban",
+        "Musoma Rural",
+        "Bunda",
+        "Butiama",
+        "Rorya",
+        "Serengeti",
+        "Tarime"
+      ]
+    },
+    {
+      "region": "Mbeya",
+      "districts": [
+        "Mbeya Urban",
+        "Mbeya Rural",
+        "Chunya",
+        "Kyela",
+        "Rungwe",
+        "Mbarali",
+        "Mbozi"
+      ]
+    },
+    {
+      "region": "Morogoro",
+      "districts": [
+        "Morogoro Urban",
+        "Morogoro Rural",
+        "Kilosa",
+        "Gairo",
+        "Mvomero",
+        "Ulanga",
+        "Kilombero",
+        "Malinyi",
+        "Ifakara"
+      ]
+    },
+    {
+      "region": "Mtwara",
+      "districts": [
+        "Mtwara Urban",
+        "Mtwara Rural",
+        "Tandahimba",
+        "Newala",
+        "Masasi Urban",
+        "Masasi Rural",
+        "Nanyumbu",
+        "Lulindi"
+      ]
+    },
+    {
+      "region": "Mwanza",
+      "districts": [
+        "Mwanza City",
+        "Ilemela",
+        "Nyamagana",
+        "Sengerema",
+        "Misungwi",
+        "Kwimba",
+        "Magu",
+        "Ukerewe"
+      ]
+    },
+    {
+      "region": "Njombe",
+      "districts": [
+        "Njombe Town",
+        "Njombe Rural",
+        "Makambako",
+        "Wanging'ombe",
+        "Ludewa",
+        "Makete"
+      ]
+    },
+    {
+      "region": "Pemba North",
+      "districts": [
+        "Wete",
+        "Micheweni"
+      ]
+    },
+    {
+      "region": "Pemba South",
+      "districts": [
+        "Chake-Chake",
+        "Mkoani"
+      ]
+    },
+    {
+      "region": "Pwani",
+      "districts": [
+        "Kibaha Urban",
+        "Kibaha Rural",
+        "Bagamoyo",
+        "Rufiji",
+        "Mafia",
+        "Kisarawe",
+        "Mkuranga"
+      ]
+    },
+    {
+      "region": "Rukwa",
+      "districts": [
+        "Sumbawanga Urban",
+        "Sumbawanga Rural",
+        "Kalambo",
+        "Nkasi"
+      ]
+    },
+    {
+      "region": "Ruvuma",
+      "districts": [
+        "Songea Urban",
+        "Songea Rural",
+        "Namanyere",
+        "Mbinga",
+        "Namtumbo",
+        "Tunduru",
+        "Madaba"
+      ]
+    },
+    {
+      "region": "Shinyanga",
+      "districts": [
+        "Shinyanga Urban",
+        "Shinyanga Rural",
+        "Kahama Urban",
+        "Kahama Rural",
+        "Kishapu",
+        "Msalala",
+        "Ushetu"
+      ]
+    },
+    {
+      "region": "Simiyu",
+      "districts": [
+        "Bariadi",
+        "Busega",
+        "Itilima",
+        "Maswa",
+        "Meatu"
+      ]
+    },
+    {
+      "region": "Singida",
+      "districts": [
+        "Singida Urban",
+        "Singida Rural",
+        "Manyoni",
+        "Ikungi",
+        "Mkalama",
+        "Iramba"
+      ]
+    },
+    {
+      "region": "Songwe",
+      "districts": [
+        "Tunduma",
+        "Ileje",
+        "Mbozi",
+        "Momba"
+      ]
+    },
+    {
+      "region": "Tabora",
+      "districts": [
+        "Tabora Urban",
+        "Tabora Rural",
+        "Igunga",
+        "Kaliua",
+        "Nzega",
+        "Sikonge",
+        "Urambo"
+      ]
+    },
+    {
+      "region": "Tanga",
+      "districts": [
+        "Tanga City",
+        "Handeni Urban",
+        "Handeni Rural",
+        "Korogwe Urban",
+        "Korogwe Rural",
+        "Lushoto",
+        "Muheza",
+        "Pangani",
+        "Bumbuli",
+        "Kilindi"
+      ]
+    },
+    {
+      "region": "Unguja North",
+      "districts": [
+        "Unguja North A",
+        "Unguja North B"
+      ]
+    },
+    {
+      "region": "Unguja South",
+      "districts": [
+        "Unguja Central",
+        "Unguja South"
+      ]
+    },
+    {
+      "region": "Unguja West",
+      "districts": [
+        "Unguja West A",
+        "Unguja West B"
+      ]
+    }
+  ]
+}
